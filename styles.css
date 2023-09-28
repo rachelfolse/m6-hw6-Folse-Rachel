@@ -51,11 +51,11 @@ footer {
 }
 
 footer > p {
-   width: 100%;
-   padding: 10px;
-   padding-top: 10px;
-   background: #747373;
-}
+    width: 100%;
+    padding: 10px;
+    padding-top: 10px;
+    background: #747373;
+ }
 
 section {
     display: incline-flex;
@@ -102,7 +102,7 @@ a:visited {
     background-color: transparent;
     text-decoration: none;
   }
-  
+
 a:hover {
     color: rgba(255, 255, 255, 0.831);
     background-color: transparent;
